@@ -140,6 +140,7 @@
 		iu: [ 'ike-cans' ],
 		jut: [ 'da' ],
 		jv: [ 'id' ],
+		'jv-java': [ 'jv' ],
 		kaa: [ 'kk-latn', 'kk-cyrl' ],
 		kab: [ 'fr' ],
 		kbd: [ 'kbd-cyrl' ],
